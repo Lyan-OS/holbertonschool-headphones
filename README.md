@@ -93,10 +93,6 @@ This project involves creating a fully functional and responsive web page from s
 - **CSS3:** For styling, including the use of Flexbox and Grid for layout management.
 - **Figma:** Used for accessing and analyzing the design specifications.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 📝 Manual QA Review
 
 Before considering the project complete, request a manual QA review to ensure all requirements have been met and that the design has been implemented correctly.
